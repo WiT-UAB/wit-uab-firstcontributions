@@ -65,7 +65,19 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor. (For this, we will use <a href="https://help.ubuntu.com/community/Nano"> nano</a>).
+
+
+```
+nano Contributors.md
+```
+
+To save click, CTRL + O.
+Click enter.
+Keep the file name as Contributors.md. 
+To exit, click CTRL + X
+
+Add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
