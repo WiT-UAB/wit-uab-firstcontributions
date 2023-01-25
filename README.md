@@ -72,7 +72,7 @@ Now open `Contributors.md` file in a text editor. (For this, we will use <a href
 nano Contributors.md
 ```
 
-To save click, CTRL + O.
+To save, click CTRL + O.
 Click enter.
 Keep the file name as Contributors.md. 
 To exit, click CTRL + X
