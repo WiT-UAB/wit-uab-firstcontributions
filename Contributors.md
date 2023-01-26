@@ -1,6 +1,6 @@
 # Contributors
 # Add your information below this line
-# [First Name Last Name - Classification, Degree Major ~ {GitHub URL}]
+# [Vivian Quinn - B.A., Computer Science ~ https://github.com/veegeeque]
 # ____________________________________________________
 
 Raven Warner - Senior, B.S. Computer Science ~ https://github.com/r-x-w
